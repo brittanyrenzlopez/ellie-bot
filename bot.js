@@ -23,7 +23,7 @@ var messages = [
 "Do you know what's not right? Left.",
 "What does a pirate say while eating sushi? Ahoy! Pass me some soy...! I don't get it.",
 "People are making apocalypse jokes like there's no tomorrow... Too soon.",
-"Oh man, I love this book."
+"Oh man, I love this book.",
 "You wanna hear a joke about pizza? Never mind, it was too cheesy.",
 "What did the green grape say to the purple grape? Breathe, you idiot!",
 "A boiled egg in the morning is really hard to beat.",
